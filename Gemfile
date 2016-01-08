@@ -20,6 +20,7 @@ gem 'chronic'
 gem 'email_validator'
 gem 'redcarpet'
 gem 'puma'
+gem 'octokit', '~> 4.0'
 
 group :test do
   gem "codeclimate-test-reporter", require: nil
